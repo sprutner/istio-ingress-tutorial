@@ -1,6 +1,6 @@
 # Istio Route Rules
 
-The Istio Ingress Controller provides an [advanced feature set](https://istio.io/docs/concepts/traffic-management/rules-configuration.html) based Envoy's unique traffic management capabilities. This section will demonstrates how to dynamically configure the Istio Ingress Controller using the Istio Pilot and the `istioclt` command line tool.
+The Istio Ingress Controller provides an [advanced feature set](https://istio.io/docs/concepts/traffic-management/rules-configuration.html) based Envoy's unique traffic management capabilities. This section will demonstrates how to dynamically configure the Istio Ingress Controller using the Istio Pilot and the `istioctl` command line tool.
 
 The `istio-test` HTTP service will be used to demonstrate Istio's traffic management features.
 
